@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: "Mohit Joshi – Full Stack Developer",
     description:
       "Explore Mohit Joshi’s portfolio – merging code, culture, and creativity.",
-    url: "https://yourdomain.com", // replace with your domain
+    url: "https://portfolio-three-umber-31.vercel.app/", // replace with your domain
     siteName: "Mohit Joshi Portfolio",
     type: "website",
   },
